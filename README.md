@@ -20,11 +20,13 @@ This real-time gesture recognition tool uses :
 -> Saves the image automatically with timestamp
 ## Demo
 
-![Screenshot1] (assets/screenshots/demo.png)
+Demo GIF
 
-![Screenshot2] (assets/screenshots/annotations.png)
+<p align="center">
+  <img src="assets/screenshots/play.gif" alt="Demo" width="600"/>
+</p>
 
-![ScreenRecord] (assets/screenshots/sample.mp4)
+
 
 ## Installation
 
