@@ -1,6 +1,14 @@
+<h1 align="center">ShutterSnap </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/shash045/ShutterSnap?style=social" />
+  <img src="https://img.shields.io/github/license/shash045/ShutterSnap" />
+  <img src="https://img.shields.io/github/repo-size/shash045/ShutterSnap" />
+  <img src="https://img.shields.io/github/last-commit/shash045/ShutterSnap" />
+  <img src="https://img.shields.io/github/languages/top/shash045/ShutterSnap" />
+</p>
 
 # ShutterSnap 
-
 A Python + OpenCV project that lets you capture a photo just by showing a **Fist Gesture**.
 
 This real-time gesture recognition tool uses :
